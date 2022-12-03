@@ -12,4 +12,4 @@ Patika.dev'de bulunan Front-End Eğitimi patikasının CSS ayağının son ödev
 
 - Oluşturduğum tasarım:
 
-!(https://user-images.githubusercontent.com/56219769/205460395-75ef14a8-66c9-40b2-9610-85e59e370a8c.png)
+![Oluşturduğum tasarım:](https://user-images.githubusercontent.com/56219769/205460395-75ef14a8-66c9-40b2-9610-85e59e370a8c.png)

@@ -11,4 +11,5 @@ Patika.dev'de bulunan Front-End Eğitimi patikasının CSS ayağının son ödev
 - Oluşturmamız Gereken Tasarım: Google arama motoru anasayfasının güncel tasarımı [Link](https://google.com.tr)
 
 - Oluşturduğum tasarım:
-![Oluşturduğum tasarım](https://i.ibb.co/jW9GPF8/Ekran-g-r-nt-s-2022-12-03-215344.png)
+
+!(https://user-images.githubusercontent.com/56219769/205460395-75ef14a8-66c9-40b2-9610-85e59e370a8c.png)
